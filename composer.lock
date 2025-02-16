@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b9700aa040523ae64a03a5a93dd0347f",
+    "content-hash": "d10367ccc639b23dd7d44d36ff22ecbd",
     "packages": [
         {
             "name": "adhocore/json-comment",
@@ -692,16 +692,16 @@
         },
         {
             "name": "pocketmine/nbt",
-            "version": "1.0.1",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pmmp/NBT.git",
-                "reference": "53db37487bc5ddbfbd84247966e1a073bdcfdb7d"
+                "reference": "cfd53a86166b851786967fc560cdb372e66fde96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pmmp/NBT/zipball/53db37487bc5ddbfbd84247966e1a073bdcfdb7d",
-                "reference": "53db37487bc5ddbfbd84247966e1a073bdcfdb7d",
+                "url": "https://api.github.com/repos/pmmp/NBT/zipball/cfd53a86166b851786967fc560cdb372e66fde96",
+                "reference": "cfd53a86166b851786967fc560cdb372e66fde96",
                 "shasum": ""
             },
             "require": {
@@ -728,9 +728,9 @@
             "description": "PHP library for working with Named Binary Tags",
             "support": {
                 "issues": "https://github.com/pmmp/NBT/issues",
-                "source": "https://github.com/pmmp/NBT/tree/1.0.1"
+                "source": "https://github.com/pmmp/NBT/tree/1.1.0"
             },
-            "time": "2025-01-07T22:47:46+00:00"
+            "time": "2025-02-01T21:20:26+00:00"
         },
         {
             "name": "pocketmine/netresearch-jsonmapper",
@@ -3333,9 +3333,9 @@
         "ext-zlib": ">=1.2.11",
         "composer-runtime-api": "^2.0"
     },
-    "platform-dev": {},
+    "platform-dev": [],
     "platform-overrides": {
         "php": "8.1.0"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
